@@ -1,6 +1,11 @@
+/*
+4. Escreva uma função que receba uma vetor de números reais 
+e devolva a média aritmética dos números da lista. 
+Escreva também código da main que testa sua função.
+*/
+
+
 #include <stdio.h>
-
-
 
 float calcular_media(float lista[], int tamanho) {
     float soma = 0.0; // a soma fica uardada aqui e inicia em 0

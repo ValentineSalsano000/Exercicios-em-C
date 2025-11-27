@@ -1,3 +1,16 @@
+/*
+5. Escreva uma função que receba uma vetor de números reais 
+e devolva o desvio padrão dos números da lista usando a seguinte fórmula, 
+onde  n é o número de elementos. 
+Escreva também código da main que testa sua função.
+
+(formula presente na lista)
+
+*/ 
+
+
+
+
 #include<stdio.h>
 #include<math.h>
 
